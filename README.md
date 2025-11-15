@@ -7,7 +7,7 @@ Webエンジニアを目指して学習しています。
 ## 🧩 Skills
 
 ### 🌐 Frontend
-- HTML5 / CSS3  
+- HTML / CSS 
 - JavaScript / TypeScript  
 - React  
 
