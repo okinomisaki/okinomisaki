@@ -1,4 +1,4 @@
-# okinomisaki
+# Misaki Okino
 
 Webエンジニアを目指して学習しています。  
 
